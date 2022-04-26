@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cookie&family=Courgette&family=Dancing+Script&family=Fjalla+One&family=Satisfy&display=swap");
+
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Fjalla One", sans-serif;
+}
+
+body {
+  background-image: url("https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-position: cover;
+}
